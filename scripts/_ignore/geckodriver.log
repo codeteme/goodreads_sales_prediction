@@ -1,0 +1,85 @@
+1638103734974	geckodriver	INFO	Listening on 127.0.0.1:64863
+1638103735487	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64864" "-foreground" "-no-remote" "-profile" "/var/folders/_n/0hj94s5x5c3bmfv9_8sfmm540000gp/T/rust_mozprofileJEaiTj"
+*** You are running in headless mode.
+1638103735898	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_n/0hj94s5x5c3bmfv9_8sfmm540000gp/T/rust_mozprofileJEaiTj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:64864/devtools/browser/d591d51b-350a-0e4f-be14-0134162577bb
+1638103737305	Marionette	INFO	Listening on port 64871
+1638103737355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638103853083	geckodriver	INFO	Listening on 127.0.0.1:65096
+1638103853607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65097" "-foreground" "-no-remote" "-profile" "/var/folders/_n/0hj94s5x5c3bmfv9_8sfmm540000gp/T/rust_mozprofileXxl43Q"
+*** You are running in headless mode.
+1638103853942	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_n/0hj94s5x5c3bmfv9_8sfmm540000gp/T/rust_mozprofileXxl43Q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65097/devtools/browser/95470924-15b5-ba4a-bf31-b46d46ba6032
+1638103855266	Marionette	INFO	Listening on port 65104
+1638103855363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638103862939	Marionette	INFO	Stopped listening on port 65104
+1638103993788	geckodriver	INFO	Listening on 127.0.0.1:65335
+1638104182981	geckodriver	INFO	Listening on 127.0.0.1:49196
+1638104189294	geckodriver	INFO	Listening on 127.0.0.1:49215
+1638104198305	geckodriver	INFO	Listening on 127.0.0.1:49243
+1638104198827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "49244" "-foreground" "-no-remote" "-profile" "/var/folders/_n/0hj94s5x5c3bmfv9_8sfmm540000gp/T/rust_mozprofileSXYBAK"
+*** You are running in headless mode.
+1638104199184	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_n/0hj94s5x5c3bmfv9_8sfmm540000gp/T/rust_mozprofileSXYBAK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:49244/devtools/browser/24408461-b106-fd41-a5cc-826a9df3efea
+1638104200550	Marionette	INFO	Listening on port 49251
+1638104200579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638104207760	Marionette	INFO	Stopped listening on port 49251
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/_n/0hj94s5x5c3bmfv9_8sfmm540000gp/T/rust_mozprofileJEaiTj/bookmarkbackups/bookmarks-2021-12-02_11_lYT4nhb4+Zo8793PzrOJYg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
