@@ -1,0 +1,5 @@
+book_reviews_folder/
+.DS_Store
+HTML/.DS_Store
+scripts/.DS_Store
+scripts/review.csv
